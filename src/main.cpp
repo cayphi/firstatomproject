@@ -7,6 +7,6 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  delay(5000);
+  delay(1000);
   Serial.println("This is my first Platform IO program");
 }
